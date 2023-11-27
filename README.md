@@ -1,0 +1,2 @@
+# edwardcoin
+my altcoin
